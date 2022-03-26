@@ -8,36 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Machine Learning - Deep Learning, Artificial Neural Networks, Computer Vision, Medical Imaging, Smart Energy Systems
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ## Links
 [Google Scholar Profile](https://scholar.google.com.pk/citations?user=Gfp8cFsAAAAJ&hl=en)
 
 ## Experience
 
 - 2019 - Now: PhD Research Fellow at [Smart Energy Systems Lab](https://person.zju.edu.cn/en/qyang), Zhejiang University, Hangzhou, P.R. China
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhdshl/mhdshl/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 2021 - Now: Design Engineer at [Electronic Devices, Circuits, and Systems (EDCAS)](http://edcas.gsse.kiet.edu.pk/), PAF-KIET, Karachi, Pakistan
+- 2013 - 2019: Lecturer at [Faculty of Engineering, Science, and Technology](https://iqra.edu.pk/), Iqra University, Main campus, Karachi, Pakistan
+- 2013 - 2014: Research Assistant at [Embedded Systems Research Group](http://es.gsse.kiet.edu.pk/), Graduate School of Science and Engineering, PAF-KIET, Karachi, Pakistan
