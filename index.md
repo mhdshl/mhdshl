@@ -13,7 +13,7 @@ Machine Learning - Deep Learning, Artificial Neural Networks, Computer Vision, M
 
 ## Experience
 
-- 2019 - Now: PhD Research Fellow at [Smart Energy Systems Lab](https://person.zju.edu.cn/en/qyang), Zhejiang University, Hangzhou, P.R. China
-- 2021 - Now: Design Engineer at [Electronic Devices, Circuits, and Systems (EDCAS)](http://edcas.gsse.kiet.edu.pk/), PAF-KIET, Karachi, Pakistan
+- 2021 - Now: PhD Research Fellow at [Computer Systems Lab], Chosun University, Gwangju, Republic of Korea
+- 2021 - 2022: Design Engineer at [Electronic Devices, Circuits, and Systems (EDCAS)](http://edcas.gsse.kiet.edu.pk/), PAF-KIET, Karachi, Pakistan
 - 2013 - 2019: Lecturer at [Faculty of Engineering, Science, and Technology](https://iqra.edu.pk/), Iqra University, Main campus, Karachi, Pakistan
 - 2013 - 2014: Research Assistant at [Embedded Systems Research Group](http://es.gsse.kiet.edu.pk/), Graduate School of Science and Engineering, PAF-KIET, Karachi, Pakistan
